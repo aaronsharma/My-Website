@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: 'I am currently a MSc Computer Science Student at the University of Bristol. I graduated from University of Leicester with a Upper Honors in Law',
   paragraphTwo: 'I have a keen interest in Financial instruments; and using Statistical and Graphical Machine Learning methods, to identify undervalued assets',
   paragraphThree: 'I am also interested in Health-Tech, and finding new and innovative ways to help improve modern standards of living',
-  resume: 'https://www.dropbox.com/home?preview=AaronCV.odt', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1y7jfnRcrMSIk_DmAtdFNTLQj2ubSqDtp/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
