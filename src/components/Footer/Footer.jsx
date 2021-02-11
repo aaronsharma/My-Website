@@ -39,8 +39,7 @@ const Footer = () => {
         <hr />
         <p className="footer__text">
           © {new Date().getFullYear()} - Website developed by{'Aaron Sharma '}
-          <a href="https://github.com/aaronsharma" target="_blank" rel="noopener noreferrer">
-            Jacobo Martínez
+          <a href="https://github.com/aaronsharma" target="_blank" rel="noopener noreferrer"> 
           </a>
         </p>
 
