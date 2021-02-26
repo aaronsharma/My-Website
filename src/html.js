@@ -16,6 +16,7 @@ export default function HTML({
   return (
     <html {...htmlAttributes}>
       <head>
+	<script data-ad-client="ca-pub-6301471865736187" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
         <meta charSet="utf-8" />
         <meta httpEquiv="x-ua-compatible" content="ie=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
@@ -29,8 +30,6 @@ export default function HTML({
     </html>
   );
 }
-<script data-ad-client="ca-pub-6301471865736187" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-
 HTML.propTypes = {
   htmlAttributes: PropTypes.object,
   headComponents: PropTypes.array,
