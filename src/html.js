@@ -29,6 +29,7 @@ export default function HTML({
     </html>
   );
 }
+<script data-ad-client="ca-pub-6301471865736187" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 HTML.propTypes = {
   htmlAttributes: PropTypes.object,
