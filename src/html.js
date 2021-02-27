@@ -16,12 +16,14 @@ export default function HTML({
   return (
     <html {...htmlAttributes}>
       <head>
+        <script data-ad-client="ca-pub-6301471865736187" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
         <meta charSet="utf-8" />
         <meta httpEquiv="x-ua-compatible" content="ie=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         {headComponents}
       </head>
       <body {...bodyAttributes}>
+        <script data-ad-client="ca-pub-6301471865736187" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
         {preBodyComponents}
         <div key="body" id="___gatsby" dangerouslySetInnerHTML={{ __html: body }} />
         {postBodyComponents}
