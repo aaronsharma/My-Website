@@ -31,7 +31,6 @@ export default function HTML({
     </html>
   );
 }
-
 HTML.propTypes = {
   htmlAttributes: PropTypes.object,
   headComponents: PropTypes.array,
